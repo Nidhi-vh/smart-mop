@@ -37,4 +37,4 @@ While the current iteration of the Smart Mop has proven successful, future enhan
 The Smart Mop project exemplifies the practical application of IoT and embedded system principles to solve everyday challenges. It reflects not only our technical proficiency but also our commitment to innovation and excellence in engineering. As we look forward to expanding the project's capabilities, we invite the community to join us in refining and building upon this foundation.
 
 ---
-For more information, contributions, or inquiries, please visit our [GitHub Repository](https://github.com/nehahter/Smart-mop) or contact us directly through our project's page.
+For more information, contributions, or inquiries, please visit our [GitHub Repository](https://github.com/Nidhi-vh/smart-mop) or contact us directly through our project's page.
